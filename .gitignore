@@ -1,0 +1,9 @@
+# Obsidian 配置目录（仅本机使用）
+.obsidian/
+
+# macOS
+.DS_Store
+._*
+
+# Obsidian 回收站
+.trash/
