@@ -1,5 +1,6 @@
 **Function Call（函数调用）和 CLI（命令行接口）的核心区别**，在做「达人推荐 Agent」时非常关键。
-
+function call的定义
+https://developers.openai.com/api/docs/guides/function-calling?site_locale=en&utm_source=chatgpt.com&api-mode=responses
 ### 1. 本质区别
 
 |维度|Function Call|CLI|
