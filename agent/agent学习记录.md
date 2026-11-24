@@ -6,7 +6,7 @@
     
     - Prompt Engineering
         
-    - Function Calling / Tool Calling
+    - [[Function Calling   Tool Calling]]
         
     - Structured Output
         
