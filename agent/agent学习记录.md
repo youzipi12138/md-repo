@@ -7,8 +7,9 @@
     - Prompt Engineering
         
     - [[Function Calling   Tool Calling]]
+    - [[Tool Registry（工具注册中心）]]
         
-    - Structured Output
+    - [[Structured Output]]
         
     - Embedding
         

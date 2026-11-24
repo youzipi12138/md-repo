@@ -276,3 +276,17 @@ get_talent_detail(name="张三")
 **大模型并没有直接连接 MySQL，而是通过工具调用，让你的后端去连接 MySQL。**
 
 这是一个典型的 LLM + Backend 架构。
+
+# **五、Function Calling 和 Tool Calling 有什么区别？**
+
+这两个概念经常被混用，但严格来说存在一定区别。
+
+**Function Calling 更强调调用一个函数；Tool Calling 是更广泛的工具调用概念。**
+
+|对比|Function Calling|Tool Calling|
+|---|---|---|
+|核心概念|调用函数|调用工具|
+|主要用途|执行某个函数|执行各种外部能力|
+|工具类型|通常是函数|函数、搜索、代码执行等|
+|参数|通常是结构化 JSON|根据工具类型决定|
+|执行者|通常是应用后端|应用后端或工具运行环境|
