@@ -12,7 +12,7 @@
         [[cli]]
     - [[Structured Output]]
         
-    - Embedding
+    - [[Embedding]]
         
     - RAG
         
