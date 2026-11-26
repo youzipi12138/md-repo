@@ -8,6 +8,7 @@
         
     - [[Function Calling   Tool Calling]]
     - [[Tool Registry（工具注册中心）]]
+    - [[Tool Executor]]
         [[cli]]
     - [[Structured Output]]
         
@@ -15,7 +16,7 @@
         
     - RAG
         
-    - 上下文窗口和 Token
+    - 上下文窗口和 [[Token]]
         
     
 2. **第二阶段：LangChain**
